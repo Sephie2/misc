@@ -286,18 +286,12 @@ In essence, Mathematical Statistics is a subfield within Statistics that explore
 - **Statistical Computing:** Using computational tools for statistical analysis.
 	- "Computational Statistics" by George Casella and Roger L. Berger
 
-### 21. Advanced Topics
-- **Advanced Set Theory:** Study of large cardinals, forcing, and independence results. 
-- **Advanced Topics in Geometry:** Topics like symplectic geometry, algebraic geometry, and non-Euclidean geometries. 
-- **Advanced Topics in Number Theory:** Topics like the theory of modular forms and elliptic curves.
-
-
 ## topics of in-depth study
 
-1. **Differential Geometry Beyond Curves and Surfaces:** Topics like Riemannian manifolds, connections, and curvature tensors.
+1. **Differential Geometry Beyond Curves and Surfaces:** Topics like Riemannian manifolds, connections, and curvature tensors, and non-Euclidean geometries.
 2. **Representation Theory:** A deeper study of the representations of groups and algebras.
 3. **Functional Analysis Beyond Introductory Topics:** Topics like operator theory, C*-algebras, and Banach algebras.
-4. **Advanced Number Theory:** Topics like class field theory, p-adic numbers, and modular forms.
+4. **Advanced Number Theory:** Topics like class field theory, p-adic numbers, and modular forms, theory of modular forms and elliptic curves.
 5. **Homotopy Theory and Algebraic Topology Beyond Basics:** Topics like homotopy groups, spectral sequences, and higher homotopy theory.
 6. **Advanced Probability and Statistics:** Topics like Bayesian non-parametrics, time series analysis, and advanced statistical computing methods.
 7. **Advanced Algebraic Structures:** Topics like non-associative algebras, advanced ring theory, and algebraic K-theory.
