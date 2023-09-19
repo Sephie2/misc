@@ -1,5 +1,33 @@
 An overview of topics in mathematics together with the most common book recommendations for each topic of sub-topic. This list is not comprehensive and more of a book recommendation than a study guideline. 
 
+
+## Starting out
+
+**Pre-Algebra**
+- "Pre-Algebra Mathematics" by Nichols (old but good)
+- "Elementary Algebra" by Sullivan et al (new, lots of examples)
+
+**Discreet Math**
+- "Discrete Mathematical Structures" by Kolman et al (beginner friendly)
+	- lots of Logic
+- "Concrete Mathematics - A Foundation for Computer Science" by Graham, Knuth, Patashnik (read discrete math first, this is not a beginner friendly book)
+- "Discrete Combinatorial Mathematics - An Applied Introduction" by R.P. Grimaldi (Standard Book)
+- "Discrete Mathematics and Its Applications" by K.H. Rosen (Standard Book)
+
+These books also cover a lot of topics for Combinatorics and Discrete Mathematics
+
+**Prove-Writing**
+- "How To Prove It - A Structures Approach" by D.J. Velleman
+- "Foundations of Higher Mathematics" by Fletcher & Patty
+- "An Introduction to Abstract Mathematics" by Bond & Keane
+- "How to Read and Do Proofs" by D. Solow
+
+After those, on college level are Pre-Calculus and Trigonometry. 
+
+* "Precalculus" by James Stewart et al (Author of "Calculus")
+- "A Graphical Approach to Algebra & Trigonometry" by Hornsby et al
+
+
 ## BSc
 ### 1. Calculus*
 *Rates of change and accumulation, involving concepts such as derivatives and integrals.*
@@ -7,7 +35,10 @@ An overview of topics in mathematics together with the most common book recommen
 - **Differential Calculus:** Study of rates of change, derivatives, and slopes of curves.
 - **Integral Calculus:** Analysis of accumulation, antiderivatives, and area under curves.
 - **Multivariable Calculus:** Extension of calculus to functions of multiple variables.
-	- "Calculus" by James Stewart
+	- "Calculus" by James Stewart or
+	- "Thomas' Calculus" or
+	- "Essential Calculus - Skills Practice Workbook"
+	- "Calculus with Multiple Variables - Essential Skills Workbook"
 
 - **Vector Calculus:** Application of calculus concepts to vector fields and surfaces.
 	- "Vector Calculus" by Jerrold Marsden and Alan Weinstein
@@ -20,26 +51,35 @@ An overview of topics in mathematics together with the most common book recommen
 	- ==Linear Algebra Done Right by Sheldon Axler, Ch. 1 - 5==
 		- Associated Video ([YouTube](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw))
 		- Down with Determinants by Sheldon Axler ([paper](https://maa.org/sites/default/files/pdf/awards/Axler-Ford-1996.pdf))
+	- "Elementary Linear Algebra" by Howard Anton
 
 - **Matrix Algebra:** Analysis of matrices, operations, determinants, and eigenvalues.
 - **Linear Transformations:** Understanding linear mappings between vector spaces.
 	- =="Linear Algebra and Its Applications" by David C. Lay==
 
-### 3. Real Analysis*
+### 3. Real Analysis* ("Advanced Calculus")
 *Calculus, but rigorously. epsilon-delta-proofs, limits, derivatives (Ableitungen). All from a proof-perspective.*
 
 - **Sequences and Series:** Examination of sequences, convergence, and power series.
 - **Limits and Continuity:** Study of limits, continuity, and related theorems.
 - **Differentiation and Integration:** Rigorous treatment of derivatives and integrals.
 	- =="Understanding Analysis" by Stephen Abbott==
-	- =="Real Analysis: Lectures by Professor Francis Su" ([YouTube](https://www.youtube.com/playlist?list=PL0E754696F72137EC))==
-	- "Principles of Mathematical Analysis" by Walter Rudin
+	- "Advanced Calculus" by R. C. Buck
+	- "Real Analysis: Lectures by Professor Francis Su" ([YouTube](https://www.youtube.com/playlist?list=PL0E754696F72137EC))
+
+	- "Advanced Calculus" by Fritzpatrick + supplement with
+	- "Introduction to Real Analysis" by Bartle & Sherbert
+
+	- "Principles of Mathematical Analysis" by Walter Rudin (dry & hard)
+		- follow-up by graduate level "Real and Complex Analysis" by Rudin
 
 - **Lebesgue Integration:** Generalization of Riemann integration for broader functions.
 	- "Real Analysis" by Royden and Fitzpatrick
 
 ### 4. Complex Analysis*
 *Calculus, but with complex numbers.*
+
+- "Schaum's Outlines - Complex Variables"
 
 - **Complex Numbers:** Introduction to complex numbers and their properties.
 - **Complex Functions:** Analysis of functions of complex variables.
@@ -53,11 +93,16 @@ An overview of topics in mathematics together with the most common book recommen
 ### 5. Differential Equations
 *Equations that involve derivatives and describe how functions change in relation to their own variables or other functions*
 
+-  "A First Course in Differential Equations with Modeling Applications" by Zill
+- "Fundamentals of Differential Equations and Boundary Value Problems" by Nagle et al
+
+
 - **Ordinary Differential Equations (ODEs):** Study of differential equations with one variable.
 	- "Elementary Differential Equations and Boundary Value Problems" by William E. Boyce and Richard C. DiPrima
 
 - **Partial Differential Equations (PDEs):** Analysis of equations with multiple variables.
 	- "Partial Differential Equations for Scientists and Engineers" by Stanley J. Farlow
+	- "Introduction to Partial Differential Equations with Applications" by E.C. Zachmanolglou
 
 - **Numerical Solutions:** Methods for solving differential equations numerically.
 	- "Numerical Analysis" by Richard L. Burden and J. Douglas Faires
@@ -69,7 +114,9 @@ An overview of topics in mathematics together with the most common book recommen
 *Studies symbols and the rules for manipulating these symbols to solve equations and explore mathematical structures.*
 
 - ***Abstract Algebra:*** Investigation of algebraic structures like groups, rings, and fields.
+	- "Abstract Algebra - A First Course" by Dan Saracino
 	- "A First Course in Abstract Algebra" by John B. Fraleigh
+	- "Abstract Algebra with a Concrete Introduction" by Beachy & Blair
 	- Topics in Algebra (i.n. herstein), Ch. 2
 	- Abstract Algebra by Prof. Benedict Gross ([YouTube](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5))
 
@@ -87,6 +134,8 @@ An overview of topics in mathematics together with the most common book recommen
 
 ### 7. Geometry*
 *Properties, shapes, sizes, and relationships of objects and spaces in the physical world*
+
+- "Geometry" by jurgensen, brown, king
 
 - **Euclidean Geometry:** Traditional plane and solid geometry.
 	- "Euclidean and Non-Euclidean Geometries" by Marvin J. Greenberg
@@ -123,8 +172,11 @@ An overview of topics in mathematics together with the most common book recommen
 ### 9. Probability and Statistics
 *Probability deals with uncertainty and the likelihood of events, while statistics involves the collection, analysis, interpretation, and presentation of data to make informed decisions and draw conclusions about populations or phenomena.*
 
+- "Elementary Statistics" by Weiss
+
 - **Probability Theory:** Understanding uncertainty, random variables, and distributions.
 	- "Introduction to Probability" by Joseph K. Blitzstein and Jessica Hwang
+	- "A First Course in Probability" by Sheldon Ross
 
 - **Statistical Inference:** Drawing conclusions from data through statistical methods.
 	- "Mathematical Statistics with Applications" by Dennis Wackerly, William Mendenhall, and Richard L. Scheaffer
@@ -149,6 +201,8 @@ An overview of topics in mathematics together with the most common book recommen
 	- "Numerical Solution of Partial Differential Equations" by K. W. Morton and D. F. Mayers
 
 ## MSc
+
+- "All the Math you Missed (But Need to Know for graduate school)" by Thomas A. Garrity
 ### 11. Mathematical Logic
 *Study of formal systems and logical reasoning used to analyze and prove mathematical statements and theorems.*
 
@@ -167,11 +221,14 @@ An overview of topics in mathematics together with the most common book recommen
 ### 12. Combinatorics and Discrete Mathematics
 *Combinatorics explores counting, arrangements, and relationships of discrete objects, while Discrete Mathematics studies mathematical structures and concepts that are inherently non-continuous.*
 
+A lot of those topics is covered in the "Starting out" section.
+
 - **Combinatorial Enumeration:** Counting and listing combinations and permutations. 
 	- "Enumerative Combinatorics, Volume 1" by Richard P. Stanley
 
 - **Graph Theory:** Analysis of networks, trees, and connectivity. 
 	- "Introduction to Graph Theory" by Douglas B. West
+	- "Graph Theory" by Ronald Gould
 
 - **Number Combinatorics:** Study of properties and patterns of integers. 
 	- "Concrete Mathematics: A Foundation for Computer Science" by Ronald L. Graham, Donald E. Knuth, and Oren Patashnik
@@ -197,8 +254,10 @@ An overview of topics in mathematics together with the most common book recommen
 ### 14. Functional Analysis
 *Functional Analysis is the branch of mathematics that studies vector spaces of functions and emphasizes concepts like convergence, continuity, and linear operators.*
 
+- "Introductory Functional Analysis with Application" by Kreyszig
+
 - **Normed Spaces and Banach Spaces:** Study of complete metric spaces. 
-	- "Functional Analysis" by Walter Rudin
+	- "Functional Analysis" by Walter Rudin (careful, it's a Rudin)
 
 - **Hilbert Spaces:** Study of inner product spaces with complete orthonormal bases. 
 	- "Hilbert Space Methods in Partial Differential Equations" by Ralph E. Showalter
@@ -211,6 +270,9 @@ An overview of topics in mathematics together with the most common book recommen
 
 ### 15. Number Theory
 *Explores the properties and relationships of integers, particularly focusing on prime numbers and divisibility.*
+
+- "Elementary Number Theory" by Dudley
+- "Number Theory" by Andrews
 
 - **Diophantine Equations:** Study of integer solutions to polynomial equations. 
 	- "An Introduction to Diophantine Equations" by Titu Andreescu and Dorin Andrica
@@ -241,6 +303,9 @@ An overview of topics in mathematics together with the most common book recommen
 
 ### 17. Topological Groups and Lie Groups
 *Topological Groups study mathematical groups that have a topological structure, and Lie Groups are special topological groups used to describe continuous symmetries in mathematics and physics.*
+
+- "Schaum's outlines - General Topology"
+- "Introduction to Topology" by Gamelin & Greene
 
 - **Topological Groups:** Study of groups with compatible topology. 
 	- "Topological Groups" by Dikran Dikranjan and Ivan Prodanov
