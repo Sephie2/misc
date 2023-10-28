@@ -44,7 +44,7 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 
 [What we know about the missing Titanic submersible | CNN](https://edition.cnn.com/2023/06/19/us/titanic-wreckage-missing-submersible-search-explainer-intl-hnk/index.html)
 
-![I FC'd the Colleen Ballinger Ukulele Apology Video on Clone Hero - YouTube](https://www.youtube.com/watch?v=6jS4lANttx0)
+[I FC'd the Colleen Ballinger Ukulele Apology Video on Clone Hero - YouTube](https://www.youtube.com/watch?v=6jS4lANttx0)
 
 [China on course to hit wind and solar power target five years ahead of time | China | The Guardian](https://www.theguardian.com/world/2023/jun/29/china-wind-solar-power-global-renewable-energy-leader)
 
