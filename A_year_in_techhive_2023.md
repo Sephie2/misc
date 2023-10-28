@@ -1,4 +1,4 @@
-# Link collection from # techhive 2023
+# A year in # techhive 2023
 
 ## News (sorted by date)
 
