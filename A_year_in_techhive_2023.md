@@ -128,6 +128,8 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 
 [jupyterlab/jupyterlab-desktop: JupyterLab desktop application, based on Electron. (github.com)](https://github.com/jupyterlab/jupyterlab-desktop)
 
+[Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
+
 [ResearchRabbit](https://www.researchrabbit.ai/)
 
 [WireGuard - Wikipedia](https://en.wikipedia.org/wiki/WireGuard)
@@ -174,6 +176,8 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 [Writefull (for Overleaf)](https://www.writefull.com/)
 
 [LaTeX Workshop - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+
+[Submitting to a Journal using a LaTeX Template - Zettlr User Manual](https://docs.zettlr.com/en/guides/journal-latex-template/)
 
 [md2pdf: Markdown to PDF templates (github.com)](https://github.com/phense/md2pdf)
 
