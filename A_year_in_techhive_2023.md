@@ -70,6 +70,30 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 
 [John Riccitiello steps down as CEO of Unity after pricing battle | VentureBeat](https://venturebeat.com/games/john-riccitiello-steps-down-as-ceo-of-unity-after-pricing-battle/)
 
+[YouTube's plan backfires, people are installing better ad blockers (androidauthority.com)](https://www.androidauthority.com/youtube-ad-block-installs-3382289/)
+
+[Post Mortem on Cloudflare Control Plane and Analytics Outage](https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/)
+
+[Discord will switch to temporary file links to block malware delivery (bleepingcomputer.com)](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
+
+[How to Fix "Ad blockers are not allowed on YouTube" - Followchain](https://www.followchain.org/ad-blockers-are-not-allowed-on-youtube/)
+
+[YouTube’s ad blocking crackdown is facing a new challenge: privacy laws - The Verge](https://www.theverge.com/2023/11/7/23950513/youtube-ad-blocker-crackdown-privacy-advocates-eu)
+
+[The END of Sam Bankman Fried (youtube.com)](https://www.youtube.com/watch?v=Hzko-cjHhTg)
+
+[Disney, Apple, Warner Bros. Among Mass Advertiser Exodus From Elon Musk’s X Following Antisemitic Post (yahoo.com)](https://ca.news.yahoo.com/lionsgate-apple-suspend-advertising-elon-220410768.html)
+
+[OpenAI board in discussions with Sam Altman to return as CEO - The Verge](https://www.theverge.com/2023/11/18/23967199/breaking-openai-board-in-discussions-with-sam-altman-to-return-as-ceo)
+
+[Office of Public Affairs | Binance and CEO Plead Guilty to Federal Charges in $4B Resolution | United States Department of Justice](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution)
+
+[OpenAI researchers warned board of AI breakthrough ahead of CEO ouster, sources say | Reuters](https://www.reuters.com/technology/sam-altmans-ouster-openai-was-precipitated-by-letter-board-about-ai-breakthrough-2023-11-22/)
+
+[Self-proclaimed 'gay furry hackers' breach nuclear lab (engadget.com)](https://www.engadget.com/self-proclaimed-gay-furry-hackers-breach-nuclear-lab-152034192.html)
+
+[Elon Musk apologizes for antisemitic tweet but tells advertisers ‘go f**k yourself’ at Dealbook Summit interview | CNN Business](https://edition.cnn.com/2023/11/29/investing/elon-musk-dealbook-summit/index.html)
+
 
 ## General Tech
 
@@ -98,16 +122,25 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 
 [Using Wolfram Language in Jupyter: A free alternative to Mathematica | Nicolás' blog (nicoguaro.github.io)](https://nicoguaro.github.io/posts/wolfram_jupyter/)
 
+[Microsoft Excel just got Python (youtube.com)](https://www.youtube.com/watch?v=8ofsE7xiGho)
+
+[The Best $2500 Extreme 4K Gaming PC Build – December 2023 (techbuyersguru.com)](https://techbuyersguru.com/guide/the-best-2500-extreme-4k-vr-gaming-pc-build/)
+
 ## AI
 
 [OpenBMB/ChatDev: Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration) (github.com)](https://github.com/OpenBMB/ChatDev)
 
 [I gave GPT-4 a budget of $100 and told it to make as much money as possible.](https://twitter.com/jacksonfall/status/1636107218859745286)
 
+[AI influencers are getting filthy rich... let's build one (youtube.com)](https://www.youtube.com/watch?v=ky5ZB-mqZKM)
+
+[AI coding assistants just leveled up, again… (youtube.com)](https://www.youtube.com/watch?v=7h732qLxtAk)
+
 ### Free LLM's
 - [Bard (google.com)](https://bard.google.com/chat)
 - [chat - Search (bing.com)](https://www.bing.com/search?q=chat&showconv=1)
 - [ChatGPT (openai.com)](https://chat.openai.com/)
+- [Poe](https://poe.com/)
 
 ### Jailbreaking LLM's
 [0xk1h0/ChatGPT_DAN: ChatGPT DAN, Jailbreaks prompt (github.com)](https://github.com/0xk1h0/ChatGPT_DAN)
@@ -124,7 +157,9 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 
 [Cryptomator - Free Cloud Encryption for Dropbox & Co](https://cryptomator.org/)
 
-[Google Keep](https://keep.google.com/)
+[Google Keep](https://keep.google.com/) (Sticky Notes with good mobile apps)
+
+[Google Takeout](https://takeout.google.com/?hl=en-GB) (export your google data; all the data)
 
 [jupyterlab/jupyterlab-desktop: JupyterLab desktop application, based on Electron. (github.com)](https://github.com/jupyterlab/jupyterlab-desktop)
 
@@ -166,6 +201,8 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 [Learning Python for Data Analysis and Visualization Ver 1 | Udemy](https://www.udemy.com/course/learning-python-for-data-analysis-and-visualization/)
 
 [How to Create a Beautiful Python Visualization Dashboard With Panel/Hvplot - YouTube](https://www.youtube.com/watch?v=uhxiXOTKzfs)
+
+[Microsoft Certified: Azure Administrator Associate - Certifications | Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
 
 ## LaTeX
 
