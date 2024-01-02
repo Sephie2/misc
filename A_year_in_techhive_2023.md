@@ -94,6 +94,12 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 
 [Elon Musk apologizes for antisemitic tweet but tells advertisers ‘go f**k yourself’ at Dealbook Summit interview | CNN Business](https://edition.cnn.com/2023/11/29/investing/elon-musk-dealbook-summit/index.html)
 
+[Everyone (But Twitch) Saw This Coming (youtube.com)](https://www.youtube.com/watch?v=udFs_93T1pc&t=8s)
+
+[Lab Grown Brain Connected to a Microchip Recognized Human Voices (youtube.com)](https://www.youtube.com/watch?v=MJmBgKt4nKU)
+
+[A Wild Year of Tech News - 2023 Christmas Special (youtube.com)](https://www.youtube.com/watch?v=TrEZY9Cgfmk)
+
 
 ## General Tech
 
@@ -125,6 +131,8 @@ https://www.adweek.com/social-marketing/ripples-through-reddit-as-advertisers-we
 [Microsoft Excel just got Python (youtube.com)](https://www.youtube.com/watch?v=8ofsE7xiGho)
 
 [The Best $2500 Extreme 4K Gaming PC Build – December 2023 (techbuyersguru.com)](https://techbuyersguru.com/guide/the-best-2500-extreme-4k-vr-gaming-pc-build/)
+
+[Project Silica (microsoft.com)](https://www.microsoft.com/en-us/research/project/project-silica/)
 
 ## AI
 
