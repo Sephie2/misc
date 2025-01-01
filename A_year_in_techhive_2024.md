@@ -110,9 +110,7 @@
 
 ### Crowdstrike
 
-[Major Windows BSOD issue hits banks, airlines, and TV broadcasters - The Verge](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue) (CrowdStrike)
-
-[Major Windows BSOD issue hits banks, airlines, and TV broadcasters - The Verge](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue)
+[Major Windows BSOD issue hits banks, airlines, and TV broadcasters - The Verge](https://www.theverge.com/2024/7/19/24201717/windows-bsod-crowdstrike-outage-issue) 
 
 [Recover AWS resources affected by the CrowdStrike Falcon agent | AWS re:Post](https://repost.aws/en/knowledge-center/ec2-instance-crowdstrike-agent)
 
