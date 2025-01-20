@@ -5,7 +5,7 @@
 
 ```bash
 apt update && apt install sudo
-usermod -aG sudo BENUTZERNAME
+usermod -aG sudo USERNAME
 ```
 - You must then log out and log in again for the change to take effect
 
@@ -40,7 +40,7 @@ sudo docker run hello-world
 
 ```bash
 sudo addgroup --system docker
-sudo adduser BENUTZERNAME docker
+sudo adduser USERNAME docker
 newgrp docker
 ```
 
