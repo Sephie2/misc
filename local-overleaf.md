@@ -44,7 +44,7 @@ sudo adduser USERNAME docker
 newgrp docker
 ```
 
-## SSH auf die VM
+## SSH to the VM
 
 - install net-tools to make `ifconfig` work. The install command will be displayed when you run `ifconfig`
 - then use `ifconfig` to determine your own IP
