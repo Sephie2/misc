@@ -1,0 +1,43 @@
+---
+services:
+  nginx-proxy: 
+    image: jwilder/nginx-proxy:1.6.2
+    container_name: nginx-proxy
+    hostname: home.lab
+    restart: always
+    ports: 
+      #- 80:80
+      - 443:443
+    volumes: 
+      - /var/run/docker.sock:/tmp/docker.sock:ro  # read-only
+      - G:\docker\nginx\certs:/etc/nginx/certs
+    networks:
+      - homelab
+
+  heimdall:
+    image: lscr.io/linuxserver/heimdall:latest
+    container_name: heimdall
+    restart: always
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+      - VIRTUAL_HOST=home.lab
+    volumes:
+      - G:\docker\heimdall:/config
+    networks:
+      - homelab
+
+  drawio:
+    image: jgraph/drawio:24.7.17
+    container_name: drawio
+    restart: always
+    environment:
+      - VIRTUAL_HOST=drawio.home.lab
+      - VIRTUAL_PORT=8080
+    networks:
+      - homelab
+  
+networks:
+  homelab:
+    external: true

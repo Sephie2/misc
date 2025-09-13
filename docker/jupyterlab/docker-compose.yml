@@ -1,0 +1,21 @@
+---
+services:
+  jupyterlab:
+    image: quay.io/jupyter/scipy-notebook:latest
+    container_name: jupyterlab
+    restart: unless-stopped
+    user: root
+    volumes:
+      - G:\docker\jupyter:/opt/app/data:rw
+    working_dir: /opt/app/data
+    environment:
+      - JUPYTER_TOKEN=token1234
+    entrypoint: sh -c 'jupyter lab --no-browser --notebook-dir=/opt/app/data --allow-root'
+    ports:
+      - 8888:8888
+    networks: 
+      - homelab
+
+networks:
+  homelab:
+    driver: bridge

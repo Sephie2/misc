@@ -1,0 +1,22 @@
+---
+services:
+  wireshark:
+    image: lscr.io/linuxserver/wireshark:latest
+    container_name: wireshark
+    restart: unless-stopped
+    cap_add:
+      - NET_ADMIN
+    security_opt:
+      - seccomp:unconfined #optional
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+      - CUSTOM_USER=${CUSTOM_USER}
+      - PASSWORD=${PASSWORD}
+    volumes:
+      - /mnt/g/VM/Docker/wireshark:/config
+    ports:
+      - 3000:3000 #optional
+      - 3001:3001 #optional
+    network_mode: host
