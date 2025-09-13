@@ -5,7 +5,7 @@
 
 ```bash
 apt update && apt install sudo
-usermod -aG sudo BENUTZERNAME
+usermod -aG sudo USERNAME
 ```
 - You must then log out and log in again for the change to take effect
 
@@ -40,11 +40,11 @@ sudo docker run hello-world
 
 ```bash
 sudo addgroup --system docker
-sudo adduser BENUTZERNAME docker
+sudo adduser USERNAME docker
 newgrp docker
 ```
 
-## SSH auf die VM
+## SSH to the VM
 
 - install net-tools to make `ifconfig` work. The install command will be displayed when you run `ifconfig`
 - then use `ifconfig` to determine your own IP
